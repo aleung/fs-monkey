@@ -1,3 +1,13 @@
+# Changelog
+
+## 1.1.1
+
+* Add support to `promises` in `patchFs`
+
+----
+
+Changelog of upstream
+
 ## [1.0.1](https://github.com/streamich/fs-monkey/compare/v1.0.0...v1.0.1) (2020-05-14)
 
 

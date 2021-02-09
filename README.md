@@ -1,6 +1,8 @@
 # fs-monkey
 
-[![][npm-img]][npm-url] [![][travis-badge]][travis-url]
+> **Note**: This is a fork of streamich/fs-monkey. It holds my PRs and is published as npm module @aleung/fs-monkey.
+
+[![][npm-img]][npm-url]
 
 Monkey-patches for filesystem related things.
 
@@ -35,7 +37,7 @@ let vol = {
 
 
 [npm-img]: https://img.shields.io/npm/v/fs-monkey.svg
-[npm-url]: https://www.npmjs.com/package/fs-monkey
+[npm-url]: https://www.npmjs.com/package/@aleung/fs-monkey
 [travis-url]: https://travis-ci.org/streamich/fs-monkey
 [travis-badge]: https://travis-ci.org/streamich/fs-monkey.svg?branch=master
 
